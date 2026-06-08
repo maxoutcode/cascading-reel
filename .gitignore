@@ -8,8 +8,6 @@ memo.md
 
 # Build & Packages
 node_modules/
-.parcel*
-parcel-*
 pnpm-*
 dist/
 
@@ -23,6 +21,7 @@ dist/
 
 # Package managers lock files
 package-lock.json
+yarn.lock
 
 # Environment files
 .env

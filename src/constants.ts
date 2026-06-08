@@ -15,7 +15,7 @@ export type MotionProfile = {
 export const DEFAULT_MOTION_PROFILE: MotionProfile = {
   columnStaggerMs: 76,
   fallMs: 800,
-  outroOverlapMs: 88,
+  outroOverlapMs: 620,
   outroRowGapMs: 14,
   rowBaseSpacingRatio: 0.05,
   incomingAlphaRampMs: 34,
