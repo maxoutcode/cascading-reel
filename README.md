@@ -10,7 +10,7 @@ A high-performance WebGL cascading reel animator for slot-style UIs on any `HTML
 ## Install
 
 ```bash
-yarn add cascading-reel
+npm install cascading-reel
 ```
 
 ## Usage (TypeScript)
